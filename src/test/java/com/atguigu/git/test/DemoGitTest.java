@@ -9,5 +9,9 @@ package com.atguigu.git.test;
  * @version 1.0.0
  */
 public class DemoGitTest {
+    
+    public void test() {
+        
+    }
 
 }

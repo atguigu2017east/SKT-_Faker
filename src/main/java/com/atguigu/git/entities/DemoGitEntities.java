@@ -10,4 +10,5 @@ package com.atguigu.git.entities;
  */
 public class DemoGitEntities {
 
+    private Integer id;
 }
