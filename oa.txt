@@ -2,6 +2,7 @@
 两只黄鹂鸣翠鸟,
 一行白鹭上青天;
 窗含西岭千秋雪,[editor by master]
+窗含西岭千秋雪,[editor by hot_fix]
 门泊东吴万里船.
 
 ----[editor by hot_fix]
